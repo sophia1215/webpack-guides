@@ -1,0 +1,3 @@
+[submodule "webpack-demo"]
+	path = webpack-demo
+	url = https://github.com/sophia1215/webpack-demo.git
